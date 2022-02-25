@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Forestry</string>
+    <string name="donate_btn">Click to donate</string>
+    <string name="message">Help save the forest!</string>
+</resources>
